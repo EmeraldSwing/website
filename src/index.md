@@ -18,3 +18,7 @@ Those of you who attended The Emerald Interlude are already on the list of email
 [Emerald Swing Updates](https://buttondown.email/emeraldswing)
 
 We look forward to welcoming you all back to Dublin!
+
+## Classes
+
+## Social Dancing

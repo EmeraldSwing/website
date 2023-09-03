@@ -6,10 +6,9 @@
 	<title>{{ title }} | {{ site.name + " " + site.year }}</title>
 </head>
 <body>
+	{% include "partials/site-head.html" %}
 <main tabindex="-1" id="main-content"></main>
-	<h1>{{ site.name + " " + site.year }}</h1>
-	{% block content %}
-	{% endblock %}
+	<h1>{{ site.name + " " + site.year }}</h1>{% block content %}	{% endblock %}
 </main>
 </body>
 </html>
