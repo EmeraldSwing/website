@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="{{ '/css/reset.css' | url }}">
+	<link rel="stylesheet" href="{{ '/css/layout.css' | url }}">
+	<link rel="stylesheet" href="{{ '/css/style.css' | url }}">
+	<title>{{ title }} | {{ site.name + " " + site.year }}</title>
+</head>
+<body>
+	{% include "partials/site-head.html" %}
+<main tabindex="-1" id="main-content" class="flow"></main>
+	<h1>{{ site.name + " " + site.year }}</h1>{% block content %}	{% endblock %}
+</main>
+		</div>
+	</div>	
+</body>
+</html>

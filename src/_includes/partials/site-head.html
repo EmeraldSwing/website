@@ -1,0 +1,9 @@
+<div class="center">
+    <div class="box">
+		<header>
+			<nav>
+				<ul role="list" class="switcher">{% for item in navigation.items %}
+					<li><a href="{{ item.url }}">{{ item.text }}</a></li>{% endfor %}
+				</ul>
+			</nav>
+		</header>
