@@ -2,7 +2,7 @@
     <div class="box">
 		<header>
 			<nav>
-				<ul role="list">{% for item in navigation.items %}
+				<ul role="list" class="switcher">{% for item in navigation.items %}
 					<li><a href="{{ item.url }}">{{ item.text }}</a></li>{% endfor %}
 				</ul>
 			</nav>
