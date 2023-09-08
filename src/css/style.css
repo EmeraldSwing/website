@@ -1,0 +1,30 @@
+:root {
+	--color-dark: #000000;
+	--color-light: #ffffff;
+	--color-primary: #1a8fe3;
+}
+
+body {
+	background: var(--color-light);
+	color: var(--color-dark);
+	padding: 2em;
+	font-family: Georgia, serif;
+}
+h1,
+h2,
+h3 {
+    font-family: sans-serif;
+	font-weight: 800;
+    line-height: 1.1;
+}
+
+ul,
+ol {
+  padding-inline-start: 1em;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    text-transform: uppercase;
+}
