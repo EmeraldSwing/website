@@ -35,6 +35,6 @@ If you experience or witness a breach of this code of conduct, you are empowered
 * They will then ask you how you would like the situation to be handled.
 * Action will be taken against the individual(s) involved, in line with those listed in the "Breaches" section.
 
-There is a dedicated e-mail address that goes directly to the safety officer event should you wish to avoid discussing a violation with anyone else: [safety@emeraldswing.com](mailto:safety@emeraldswing.com).
+There is a dedicated e-mail address that goes directly to the safety officer if you would like to avoid discussing a violation with anyone else: [safety@emeraldswing.com](mailto:safety@emeraldswing.com).
 
 We appreciate your assistance in keeping our events as safe as possible for everyone.
