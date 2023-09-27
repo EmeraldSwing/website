@@ -6,7 +6,7 @@ title: "Home"
 Registration is now open for the 2023 edition of Emerald Swing! We are incrementally improving this website, but here's the most important details:
 
 * The dates are October 20th-22nd
-* **There is an early bird price available until the 22nd of September**
+* **There is an early bird price available until the 2nd of October**
 * Check-ins start at 6:30PM on Friday and the last class ends at 4PM on Sunday (Whiskey tasting ends around 7PM!)
 * It's unlikely there will be single night passes due to venue capacity - determined after early bird ends
 * The venue for social dancing is [Charlemont Community Resource Center](https://goo.gl/maps/7E5H43C6bFySdxDv8)
