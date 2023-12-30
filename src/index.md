@@ -1,39 +1,46 @@
 ---
-layout: 'layouts/home'
+layout: onepage.njk
 title: "Home"
+description: "The Emerald Interlude is a small weekend swing dancing event that will run from July 26-28th in Dublin, Ireland!"
 ---
 
-Registration is now open for the 2023 edition of Emerald Swing! We are incrementally improving this website, but here's the most important details:
+The Emerald Interlude is a small weekend swing dancing event in Dublin, Ireland.
 
-* The dates are October 20th-22nd
-* **There is an early bird price available until the 2nd of October**
-* Check-ins start at 6:30PM on Friday and the last class ends at 4PM on Sunday (Whiskey tasting ends around 7PM!)
-* It's unlikely there will be single night passes due to venue capacity - determined after early bird ends
-* The venue for social dancing is [Charlemont Community Resource Center](https://goo.gl/maps/7E5H43C6bFySdxDv8)
-* It's also one of three venues being used for classes, all within a 15 minute walk - the others are [Dublin Studio](https://goo.gl/maps/rxi2trFkX5zAx4dn6) and [St Kevin's Community Centre](https://goo.gl/maps/6eqUigbpCgbXoHCH9)
-* You'll have eight hours of [core classes](/classes), choosing one of three classes for each hour
-* Friday and Saturday night will start with an hour long taster class, followed by three hours of dancing
-* Both nights will feature a mix of DJs, live music, and special competitions!
+It substitutes a bigger event called Emerald Swing for quieter years.
 
-Your [teachers](/teachers) are as follows:
+It first ran in September 2022, and returns this July 26th!
 
-* Erol Akinci (Turkey) teaching Solo Jazz
-* Johan Selander (Sweden) & Maria Margot (Spain) teaching Lindy Hop 
-* Lauren Smith & Peter Flahiff (US) teaching Balboa, Collegiate Shag & Lindy Hop
+We're inviting back Johan Selandar & Maria Margot as teachers for the event, who taught during Emerald Swing 2023.
 
-The teachers will each stay in a single venue, and you'll choose your own adventure on the weekend - check out the descriptions on the [classes](/classes) page.
+It will include 6 hours of core classes, 2 hours of tasters and 8 hours of social dancing.
 
-Classes are open level, but the teachers have been asked to treat their earliest classes as intermediate, and their final ones as advanced. Expect the Sunday classes to be more challenging than the Saturday ones.
+There'll probably be some social competitions, too!
 
-Finally, here's the actual costs for the event.
+The [Charlemont Community Resource Centre](https://maps.app.goo.gl/gtBNtufm5ExnZkx97) will be the venue for the entire event.
 
-|  | Full Pass | Party Pass | Whiskey Tasting | T-Shirt
-| :--------: | :--------: | :--------: | :--------: | :--------: |
-| **Early Bird (Closing Sep. 22)** | €150 | €30 | €35 | €25
-| **Final Price (Closing Oct. 15)** | €180 | €35 | €40 | €30
+Registration will be available through [DanceCloud](https://pobailstomp.dancecloud.com/) on March 29th.
 
-Convinced? [Register now](https://jitter.dance/events/64de537e45078a3dfd1a7fbf)!
+Here's the key dates, specifying when things will be available and at what price. 
 
-The whiskey tasting has very limited spaces. It's being ran by a local dancer, and will feature some of the most interesting options the island has to offer. 
+* ~~January 5th, event announcement~~
+* March 29th, early bird registration
+	* €130 Full Pass
+	* €25 Party Pass
+	* €25 T-Shirt
+* April 19th, early bird close
+	* €140 Full Pass
+	* €35 Party Pass
+	* €10 Friday Only Pass
+	* €20 Saturday Only Pass
+	* €25 T-Shirt
+* July 19th, online registration close
+* July 26th, event start
+	* €15 Friday Only Pass (Cash)
+	* €25 Saturday Only Pass (Cash)
+	* €30 T-Shirt (Cash)
 
-The t-shirt will have a completely unique design this year, also thanks to a local dancer. There's a unique design every year - collect them all!
+This is a [Google Calendar link](https://calendar.google.com/calendar/u/3?cid=YzQyMDcxNWFjODQ5YzU4ZmUyNjEzMDQyODNkOTg0MDU1MmQ4MzJlMjExNDg1MjdlOGViYzExOGQ4NDRlMzI4MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with the above dates as event entries, which will later include the timetable.
+
+You can rely on this website for the latest information, but we'll also send updates out through our [newsletter](https://buttondown.email/emeraldswing), [facebook](https://www.facebook.com/EmeraldSwing) & [instagram](https://www.instagram.com/EmeraldSwing).
+
+Talk to you soon!

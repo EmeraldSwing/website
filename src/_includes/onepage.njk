@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ title | safe }} — {{ site.name + " " + site.year | safe }}</title>
+	<meta name="title" content="{{ title | safe }} — {{ site.name | safe }} {{ site.year | safe }}">
+	<meta name="description" content="{{ description | safe }}">
+	<meta name="robots" content="follow, index" />
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{{ site.url | url }}">
+	<meta property="og:title" content="{{ title | safe }}">
+	<meta property="og:description" content="{{ description | safe }}">
+</head>
+<body>
+	<h1>{{site.name}} {{site.year}}</h1>
+	{% block content %}
+		{{ content | safe }}	
+	{% endblock %}
+</body>
+</html>
