@@ -8,7 +8,7 @@ The Emerald Interlude is a small weekend swing dancing event in Dublin, Ireland.
 
 It substitutes a bigger event called Emerald Swing for quieter years.
 
-It first ran in September 2022, and returns this July 26th!
+Its first edition was September 2022, and returns this July 26th!
 
 We're inviting back Johan Selandar & Maria Margot as teachers for the event, who taught during Emerald Swing 2023.
 
