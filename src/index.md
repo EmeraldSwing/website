@@ -4,17 +4,17 @@ title: "Home"
 description: "The Emerald Interlude is a small weekend swing dancing event that will run from July 26-28th in Dublin, Ireland!"
 ---
 
-The Emerald Interlude is a small weekend swing dancing event in Dublin, Ireland.
+The Emerald Interlude is a small weekend swing dancing event in Dublin, Ireland. Its first edition was September 2022, and returns this July 26th!
 
 It substitutes a bigger event called Emerald Swing for quieter years.
-
-Its first edition was September 2022, and returns this July 26th!
 
 We're inviting back Johan Selandar & Maria Margot as teachers for the event, who taught during Emerald Swing 2023.
 
 It will include 6 hours of core classes, 2 hours of tasters and 8 hours of social dancing.
 
 There'll probably be some social competitions, too!
+
+We’re a small and enthusiastic community that organises and promotes inclusive approaches to dancing on and off the floor.
 
 The [Charlemont Community Resource Centre](https://maps.app.goo.gl/gtBNtufm5ExnZkx97) will be the venue for the entire event.
 
@@ -38,9 +38,10 @@ Here's the key dates, specifying when things will be available and at what price
 	* €15 Friday Only Pass (Cash)
 	* €25 Saturday Only Pass (Cash)
 	* €30 T-Shirt (Cash)
+* July 28th, event end!
 
 This is a [Google Calendar link](https://calendar.google.com/calendar/u/3?cid=YzQyMDcxNWFjODQ5YzU4ZmUyNjEzMDQyODNkOTg0MDU1MmQ4MzJlMjExNDg1MjdlOGViYzExOGQ4NDRlMzI4MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with the above dates as event entries, which will later include the timetable.
 
 You can rely on this website for the latest information, but we'll also send updates out through our [newsletter](https://buttondown.email/emeraldswing), [facebook](https://www.facebook.com/EmeraldSwing) & [instagram](https://www.instagram.com/EmeraldSwing).
 
-Talk to you soon!
+Talk to you soon.
