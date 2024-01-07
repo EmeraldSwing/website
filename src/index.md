@@ -4,25 +4,23 @@ title: "Home"
 description: "The Emerald Interlude is a small weekend swing dancing event that will run from July 26-28th in Dublin, Ireland!"
 ---
 
-The Emerald Interlude is a small weekend swing dancing event in Dublin, Ireland. Its first edition was September 2022, and returns this July 26th!
+The Emerald Interlude is a small weekend swing dancing event in Dublin, Ireland. 
 
-It substitutes a bigger event called Emerald Swing for quieter years.
+We’re a small and enthusiastic community that organises and promotes inclusive approaches to dancing on and off the floor.
+
+Its first edition was September 2022, and returns this July 26th! It substitutes a bigger event called Emerald Swing for quieter years.
 
 We're inviting back Johan Selandar & Maria Margot as teachers for the event, who taught during Emerald Swing 2023.
 
-It will include 6 hours of core classes, 2 hours of tasters and 8 hours of social dancing.
-
-There'll probably be some social competitions, too!
-
-We’re a small and enthusiastic community that organises and promotes inclusive approaches to dancing on and off the floor.
+It will include 6 hours of core classes, 2 hours of tasters and 8 hours of social dancing. The classes will be Lindy Hop-focused and aimed at mixed levels.
 
 The [Charlemont Community Resource Centre](https://maps.app.goo.gl/gtBNtufm5ExnZkx97) will be the venue for the entire event.
 
 Registration will be available through [DanceCloud](https://pobailstomp.dancecloud.com/) on March 29th.
 
-Here's the key dates, specifying when things will be available and at what price. 
+Here's the key dates for when things will be available and at what price. 
 
-* ~~January 5th, event announcement~~
+* ~~January 8th, event announcement~~
 * March 29th, early bird registration
 	* €130 Full Pass
 	* €25 Party Pass

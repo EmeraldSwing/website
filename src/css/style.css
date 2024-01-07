@@ -1,0 +1,27 @@
+:root{
+	--green: #006838;
+	--yellow: #ece7d0;
+	--black: #17140F;
+}
+
+* {
+	font-family: system-ui, sans-serif;
+	text-wrap: balance;
+}
+
+body {
+	background-color: var(--yellow);
+	color: var(--grey);
+}
+
+a {
+	color: var(--green);
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+#main-logo {
+	max-width: 80vw;
+}

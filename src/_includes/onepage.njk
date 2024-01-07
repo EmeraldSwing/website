@@ -11,11 +11,16 @@
 	<meta property="og:url" content="{{ site.url | url }}">
 	<meta property="og:title" content="{{ title | safe }}">
 	<meta property="og:description" content="{{ description | safe }}">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/layout.css">
+	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<h1>{{site.name}} {{site.year}}</h1>
-	{% block content %}
-		{{ content | safe }}	
-	{% endblock %}
+	<main>
+		<h1><img src="images/logo-green.webp" alt="" id="main-logo"></h1>
+		{% block content %}
+			{{ content | safe }}
+		{% endblock %}
+	</main>
 </body>
 </html>
