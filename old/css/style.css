@@ -1,0 +1,59 @@
+:root {
+	--color-dark: #252525;
+	--color-light: #efefef;
+	--color-primary: #338150;
+}
+
+body {
+	background: var(--color-light);
+	color: var(--color-dark);
+	padding: 2em;
+	font-family: Georgia, serif;
+}
+
+a {
+	color: var(--color-primary);
+	text-decoration-thickness: 0.2ex;
+	text-underline-offset: 0.3ex;
+}
+
+h1,
+h2,
+h3 {
+    font-family: sans-serif;
+	font-weight: 800;
+    line-height: 1.1;
+	text-wrap: balance;
+}
+
+ul,
+ol {
+  padding-inline-start: 1em;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+th {
+	border: 1px solid;
+	padding: 0.5em;
+}
+
+td {
+	border: 1px solid;
+	padding: 0.5em;
+}
+
+.flow > * + * {
+	margin-block-start: var(--flow-space, 1em);
+}
+
+:is(h1, h2, h3, blockquote) {
+  --flow-space: 1.5em;
+}
+
+:is(h1, h2, h3) + * {
+  --flow-space: 0.5em;
+}
