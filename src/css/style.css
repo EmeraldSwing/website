@@ -4,9 +4,14 @@
 	--black: #17140F;
 }
 
-* {
+html {
 	font-family: system-ui, sans-serif;
+	font-size: 1.3em;
 	text-wrap: balance;
+	max-width: 40rem;
+	padding: 2rem;
+	margin: auto;
+	line-height: 1.5rem;
 }
 
 body {
@@ -23,5 +28,6 @@ h1 {
 }
 
 #main-logo {
-	max-width: 80vw;
+	display: block;
+	margin: auto;
 }
