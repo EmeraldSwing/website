@@ -14,16 +14,16 @@ It will include 6 hours of core classes, 2 hours of tasters and 8 hours of socia
 
 The [Charlemont Community Resource Centre](https://maps.app.goo.gl/gtBNtufm5ExnZkx97) will be the venue for the entire event.
 
-Registration will be available through [DanceCloud](https://pobailstomp.dancecloud.com/) on March 29th.
+Registration will be available through [DanceCloud](https://pobailstomp.dancecloud.com/) on May 24th.
 
 Here's the key dates for when things will be available and at what price. 
 
 * ~~January 8th, event announcement~~
-* March 29th, early bird registration
+* May 24th, early bird registration
 	* €130 Full Pass
 	* €25 Party Pass
 	* €25 T-Shirt
-* April 19th, early bird close
+* June 7th, early bird close
 	* €140 Full Pass
 	* €35 Party Pass
 	* €10 Friday Only Pass
@@ -31,13 +31,13 @@ Here's the key dates for when things will be available and at what price.
 	* €25 T-Shirt
 * July 19th, online registration close
 * July 26th, event start
-	* €15 Friday Only Pass (Cash)
-	* €25 Saturday Only Pass (Cash)
-	* €30 T-Shirt (Cash)
+	* €15 Friday Only Pass
+	* €25 Saturday Only Pass
+	* €30 T-Shirt
 * July 28th, event end!
 
 This is a [Google Calendar link](https://calendar.google.com/calendar/u/3?cid=YzQyMDcxNWFjODQ5YzU4ZmUyNjEzMDQyODNkOTg0MDU1MmQ4MzJlMjExNDg1MjdlOGViYzExOGQ4NDRlMzI4MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with the above dates as event entries, which also includes the timetable.
 
-You can rely on this website for the latest information, but we'll also send updates out through our [newsletter](https://buttondown.email/emeraldswing), [facebook](https://www.facebook.com/EmeraldSwing) & [instagram](https://www.instagram.com/EmeraldSwing).
+You can rely on this website for the latest information, but we'll also send updates out through our [newsletter](https://buttondown.email/pobailstomp), [facebook](https://www.facebook.com/pobailstomp) & [instagram](https://www.instagram.com/pobailstomp).
 
 Talk to you soon.
