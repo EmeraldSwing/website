@@ -14,7 +14,7 @@ It will include 6 hours of core classes, 2 hours of tasters and 8 hours of socia
 
 The [Charlemont Community Resource Centre](https://maps.app.goo.gl/gtBNtufm5ExnZkx97) will be the venue for the entire event.
 
-Registration will be available through [DanceCloud](https://pobailstomp.dancecloud.com/) on May 24th.
+Registration will be available through [DanceCloud](https://pobailstomp.dancecloud.com/dance/35882) on May 24th.
 
 Here's the key dates for when things will be available and at what price. 
 
