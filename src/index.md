@@ -19,10 +19,10 @@ Registration will be available through [DanceCloud](https://pobailstomp.danceclo
 Here's the key dates for when things will be available and at what price. 
 
 * ~~January 8th, event announcement~~
-* May 24th, early bird registration
-	* €130 Full Pass
-	* €25 Party Pass
-	* €25 T-Shirt
+* ~~May 24th, early bird registration~~
+	* ~~€130 Full Pass~~
+	* ~~€25 Party Pass~~
+	* ~~€25 T-Shirt~~
 * June 7th, early bird close
 	* €140 Full Pass
 	* €35 Party Pass
