@@ -4,17 +4,15 @@ title: "Home"
 description: "The Emerald Interlude is a small weekend swing dancing event that will run from July 26-28th in Dublin, Ireland!"
 ---
 
-The Emerald Interlude is a small weekend swing dancing event in Dublin, Ireland. Its first edition was September 2022, and returns this July 26th! It substitutes a bigger event called Emerald Swing for quieter years.
+The Emerald Interlude is a small weekend swing dancing event in Dublin, Ireland. Its first edition was September 2022, and returns this July 26th!
 
-We’re a small and enthusiastic community that organises and promotes inclusive approaches to dancing on and off the floor.
+It includes 6 hours of core classes, 2 hours of tasters and 8 hours of social dancing. The classes are Lindy Hop-focused and aimed at mixed levels.
 
-We're inviting back Johan Selandar & Maria Margot as teachers for the event, who taught during Emerald Swing 2023.
+We've invited back Johan Selandar & Maria Margot as teachers for the event, who taught during Emerald Swing 2023.
 
-It will include 6 hours of core classes, 2 hours of tasters and 8 hours of social dancing. The classes will be Lindy Hop-focused and aimed at mixed levels.
+**Registration is available through [DanceCloud](https://pobailstomp.dancecloud.com/dance/35882).**
 
-The [Charlemont Community Resource Centre](https://maps.app.goo.gl/gtBNtufm5ExnZkx97) will be the venue for the entire event.
-
-Registration will be available through [DanceCloud](https://pobailstomp.dancecloud.com/dance/35882) on May 24th.
+The [Charlemont Community Resource Centre](https://maps.app.goo.gl/gtBNtufm5ExnZkx97) is the venue for the entire event.
 
 Here's the key dates for when things will be available and at what price. 
 
@@ -36,7 +34,17 @@ Here's the key dates for when things will be available and at what price.
 	* €30 T-Shirt
 * July 28th, event end!
 
-This is a [Google Calendar link](https://calendar.google.com/calendar/u/3?cid=YzQyMDcxNWFjODQ5YzU4ZmUyNjEzMDQyODNkOTg0MDU1MmQ4MzJlMjExNDg1MjdlOGViYzExOGQ4NDRlMzI4MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) with the above dates as event entries, which also includes the timetable.
+There is a [Google Calendar](https://calendar.google.com/calendar/u/3?cid=YzQyMDcxNWFjODQ5YzU4ZmUyNjEzMDQyODNkOTg0MDU1MmQ4MzJlMjExNDg1MjdlOGViYzExOGQ4NDRlMzI4MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) available with the above dates, which also includes the timetable.
+
+| Time  | Friday       | Saturday        | Sunday          |
+| ----  | -------------| --------------- | --------------- |
+| 11:00 |              | Lindy Hop Class | Lindy Hop Class |
+| 14:00 |              | Lindy Hop Class | Lindy Hop Class |
+| 19:00 | Taster Class | Taster Class    |                 |
+| 20:00 | Social Dance | Social Dance    |                 |
+| 00:00 | Night End    | Night End       |                 |
+
+The taster classes are an hour long, while the Lindy Hop classes during the afternoon last 90 minutes. Friday night will feature DJs from dance scenes from around Ireland, while Saturday has a live band.
 
 You can rely on this website for the latest information, but we'll also send updates out through our [newsletter](https://buttondown.email/pobailstomp), [facebook](https://www.facebook.com/pobailstomp) & [instagram](https://www.instagram.com/pobailstomp).
 
