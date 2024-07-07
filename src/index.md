@@ -27,7 +27,7 @@ Here's the key dates for when things will be available and at what price.
 	* €10 Friday Only Pass
 	* €20 Saturday Only Pass
 	* €25 T-Shirt
-* July 19th, online registration close
+* July 24th, online registration close
 * July 26th, event start
 	* €15 Friday Only Pass
 	* €25 Saturday Only Pass
