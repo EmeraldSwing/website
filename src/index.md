@@ -18,20 +18,20 @@ Here's the key dates for when things will be available and at what price.
 
 * ~~January 8th, event announcement~~
 * ~~May 24th, early bird registration~~
-	* ~~€130 Full Pass~~
-	* ~~€25 Party Pass~~
-	* ~~€25 T-Shirt~~
-* June 7th, early bird close
-	* €140 Full Pass
-	* €35 Party Pass
-	* €10 Friday Only Pass
-	* €20 Saturday Only Pass
-	* €25 T-Shirt
-* July 24th, online registration close
+  * ~~€130 Full Pass~~
+  * ~~€25 Party Pass~~
+  * ~~€25 T-Shirt~~
+* ~~June 7th, early bird close~~
+  * ~~€140 Full Pass~~
+  * ~~€35 Party Pass~~
+  * ~~€10 Friday Only Pass~~
+  * ~~€20 Saturday Only Pass~~
+  * ~~€25 T-Shirt~~
+* ~~July 24th, online registration close~~
 * July 26th, event start
-	* €15 Friday Only Pass
-	* €25 Saturday Only Pass
-	* €30 T-Shirt
+  * €15 Friday Only Pass
+  * €25 Saturday Only Pass
+  * €30 T-Shirt
 * July 28th, event end!
 
 There is a [Google Calendar](https://calendar.google.com/calendar/u/3?cid=YzQyMDcxNWFjODQ5YzU4ZmUyNjEzMDQyODNkOTg0MDU1MmQ4MzJlMjExNDg1MjdlOGViYzExOGQ4NDRlMzI4MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) available with the above dates, which also includes the timetable.
